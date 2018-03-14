@@ -12,7 +12,7 @@ public class TrapsDecision {
 		if(traps == gay){
 			System.out.println("Traps are" + traps);
 		}
-		else if(traps == notGay){
+		else if(traps == not gay){
 			System.out.println("Traps are" + traps);
 		}
 		//The code does't work. Don't try it.
