@@ -10,10 +10,10 @@ public class TrapsDecision {
 		traps = input.nextInt();
 
 		if(traps == gay){
-			System.out.println("Traps are gay.");
+			System.out.println("Traps are" + traps);
 		}
 		else if(traps == notGay){
-			System.out.println("Traps are not gay.");
+			System.out.println("Traps are" + traps);
 		}
 		//The code does't work. Don't try it.
 	}
